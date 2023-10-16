@@ -21,8 +21,8 @@ specs:
     description: null
     actuation: null
     bottom-out: 62
-    pre-travel: null
-    total-travel: null
+    pre-travel: 2.2
+    total-travel: 3.6
     spring: standard
     spring_color: null
     spring_color_info: 'High quality Korean stainless steel springs.'
