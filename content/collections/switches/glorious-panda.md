@@ -131,5 +131,5 @@ theremin_goat_scores:
     link_to_review: 'https://www.theremingoat.com/blog/glorious-panda-switch-review'
 updated_by: 346c3162-6b01-4097-b7ee-8c4482d3ec52
 updated_at: 1643646151
-manufacturer: tecsee
+manufacturer: bsun
 ---
